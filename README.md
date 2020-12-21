@@ -29,11 +29,27 @@
 ## 二、打赏 - JUST FOR FUN
 
 > * 支持分享! 一杯咖啡钱, 打赏金额随意，感谢大家~ :)
+#打赏我 https://www.paypal.com/paypalme/uaa2020
 
+BTC: 3FZxUtcR22xjJGwxp4G8jV9QjZJ2qHxKWL
+BTC-Bitcoin单笔充币大于0.00005BTC-Bitcoin才可以到账
 
-|   支付宝   |   微信    |
-|------------|-----------|
-|<img src="https://img-blog.csdnimg.cn/20200412132734488.JPG?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2Jib3lmZWl5dQ==,size_16,color_FFFFFF,t_70" width="200"/>| <img src="https://img-blog.csdnimg.cn/20200911174255577.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2Jib3lmZWl5dQ==,size_16,color_FFFFFF,t_70" width="200"/>  |
+ETH： 0xfde5b338c528e07996495f997fb74c87123c0737
+
+LTC 地址: 3CBbSryJyVJhDTWtdMmPgjyTSTb6Jd8j1s
+
+USDT-Omni USDT 充币地址:
+
+3Dgv41cSDGqTdw4kZExRHepunjbBsF5FK3
+
+USDT-TRC20 USDT充币地址:
+
+TMkRymhb8PzpEFjWVzYyNiwwoGpStcUstr
+
+USDT-ERC20 USDT充币地址:
+
+0xfde5b338c528e07996495f997fb74c87123c0737
+
 
 <a id="subscribe"></a>
 ## 三、免费订阅 - 支持kindle与邮箱订阅
